@@ -54,7 +54,6 @@ const timer = setInterval(() => {
     output++;
   }
 }, 10);
-
 });
  
 
